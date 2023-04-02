@@ -1,0 +1,40 @@
+a{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+}
+.nav i{
+    color: white;
+
+}
+.img{
+    width: 15%;
+}
+
+.menu{
+    background-color: #9F1D1D;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+}
+ul{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+.tuvanngay{
+    background-color: white;
+    display: flex;
+    padding: 10px;
+    margin-right: 10px;
+}
+.tuvanngay p{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 15px;
+}
